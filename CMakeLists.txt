@@ -25,6 +25,7 @@ add_message_files(
   TrackArray.msg
   CameraTrack.msg
   CameraTrackArray.msg
+  CollisionDetection.msg
   MarkerArrayStamped.msg
   VehicleGroundTruth.msg
   VehicleGroundTruthArray.msg
